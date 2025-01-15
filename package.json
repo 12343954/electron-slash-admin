@@ -48,7 +48,7 @@
     "electron-updater": "^6.3.9",
     "framer-motion": "^10.16.4",
     "highlight.js": "^11.9.0",
-    "i18next": "^23.5.1",
+    "i18next": "^24.2.0",
     "i18next-browser-languagedetector": "^7.1.0",
     "nprogress": "^0.2.0",
     "numeral": "^2.0.6",
